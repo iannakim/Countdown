@@ -19,8 +19,8 @@ body {
   position: fixed;
   right: 0;
   bottom: 0;
-  width: 100vw; /*viewport width: that is the entire width of the displayed window */
-  height: auto;
+  height: 100vh; /*viewport width: that is the entire width of the displayed window */
+  width: auto;
 }
 
 video {
