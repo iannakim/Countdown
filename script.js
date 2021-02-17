@@ -25,7 +25,7 @@ const hour = minute * 60;
 const day = hour * 24;
 
 
-video.playbackRate = 0.75;
+video.playbackRate = 0.5;
 
 // Set Date Input Min with Today's Date
 const today = new Date().toISOString().split('T')[0];
